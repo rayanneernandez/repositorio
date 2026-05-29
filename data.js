@@ -120,12 +120,15 @@ const projects = [
     },
     {
         id: 10,
-        title: 'Aguarde... Novo Projeto em Desenvolvimento',
-        description: 'Este espaço será ocupado por um projeto que promete surpreender. Fique atento!',
-        image: 'img/embreve.jpg',
+        title: 'Painel de Operações',
+        description: 'Este projeto é um Painel de Operações desenvolvido para centralizar, monitorar e apoiar a tomada de decisões operacionais em tempo real. A plataforma reúne dados estratégicos de diferentes áreas do negócio em um único ambiente, permitindo visão clara do desempenho, identificação rápida de gargalos e respostas ágeis a eventos críticos.',
+        image: 'img/painel-operacoes.png',
         category: 'web',
-        languages: ['HTML', 'TypeScript', 'Tailwind', 'CSS'],
-        date: '2026'
+        languages: ['TypeScript', 'Python', 'JavaScript', 'PLpgSQL', 'CSS'],
+        github: 'https://github.com/rayanneernandez/painel-operacoes',
+        link: 'https://painel-operacoes.vercel.app/login',
+        date: 'Abril 2026'
+
     },
     {
         id: 13,
@@ -165,7 +168,7 @@ const projects = [
         description: 'Aplicativo mobile com login , catálogo de produtos, detalhes de produto e acesso à loja autônoma via QR Code integrações com o sistema totvs e um sistema próprio web, juntamente a uma IA que reconhece qual produto a pessoa pega assim deixando de forma totalmente autônoma a cobrança.',
         image: 'img/login.png',
         category: 'mobile',
-        languages: ['TypeScript'],
+        languages: ['React Native', 'TypeScript', 'JavaScript'],
         github: 'https://github.com/Caua-coder/atadiesel-main',
         gallery: [
             'img/login.png',
