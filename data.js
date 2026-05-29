@@ -160,7 +160,7 @@ const projects = [
         languages: ['TypeScript', 'Python', 'CSS', 'JavaScript'],
         github: 'https://github.com/rayanneernandez/verysing',
         link: 'https://verysing.vercel.app/',
-        date: '2026'
+        date: 'Fev 2026'
     },
     {
         id: 12,
@@ -178,7 +178,7 @@ const projects = [
             'img/autonoma.png',
             'img/cartoes.png'
         ],
-        date: '2026'
+        date: ' Jan 2026'
     }
 ];
 
