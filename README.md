@@ -28,7 +28,7 @@ Este portfólio foi construído utilizando:
 ---
 ## 💻 Acesse meu portfólio online
 
-➡️ [rayanneernandez.github.io/repositorio](https://rayanneernandez.github.io/repositorio/)
+➡️ [rayanneernandez.github.io/portifolio](https://rayanneernandez.github.io/portifolio/)
 
 ---
 
